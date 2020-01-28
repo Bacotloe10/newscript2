@@ -1,0 +1,23 @@
+*🔰TOOLS ENCRIPT PYTHON MARSHALL*🔰
+
+*🔰Pitur:🔰*
+1. Encript Python 
+2. Encript Python2
+3. Encript Python3
+4. Encript Python2 (pyc)
+
+*🔰Install In Termux:🔰*
+
+$ pkg install git
+
+$ pkg install python2
+
+$ git clone https://github.com/Bacotloe10/encript-python-marshall
+
+$ cd encript-python-marshall
+
+$ python2 requests.py
+
+$ sh encript-python.sh
+
+*Gunakan Dengan Bijak*
